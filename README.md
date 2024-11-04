@@ -1,3 +1,7 @@
+I want to give credit to Traversy Media for the product contained here. This project was created using this wonderful course:
+https://www.youtube.com/watch?v=LDB4uaJ87e0
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
